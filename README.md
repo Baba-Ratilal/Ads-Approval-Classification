@@ -15,9 +15,11 @@ This repository demonstrates how to use RapidMiner for performing binomial class
 ## How to Use
 1. **Download the Files**:
    - Download the `Ads Approval.rmp` file from this repository.
+   - Download the 'AdsApproval.xlsx' file from this repository as dataaset.
    - Download the presentation for reference.
 2. **Open in RapidMiner**:
    - Launch RapidMiner on your device.
    - Open the `.rmp` file in RapidMiner.
+   - Configure the downloaded dataset for use.
 3. **Run the Workflow**:
    - Follow the steps in the presentation to understand the process and run the classification workflow.
